@@ -1,0 +1,10 @@
+2020-07-16T14:51:15+00:00 CRITICAL syntax error, unexpected ')', expecting ',' or ';' in /var/www/html/gastrolando/wp-content/plugins/wp-foodbakery/templates/restaurants/restaurant-list.php on line 188
+
+2020-07-16T14:51:20+00:00 CRITICAL syntax error, unexpected ')', expecting ',' or ';' in /var/www/html/gastrolando/wp-content/plugins/wp-foodbakery/templates/restaurants/restaurant-list.php on line 188
+
+2020-07-16T14:51:52+00:00 CRITICAL syntax error, unexpected ')', expecting ',' or ';' in /var/www/html/gastrolando/wp-content/plugins/wp-foodbakery/templates/restaurants/restaurant-list.php on line 188
+
+2020-07-16T14:51:54+00:00 CRITICAL syntax error, unexpected ')', expecting ',' or ';' in /var/www/html/gastrolando/wp-content/plugins/wp-foodbakery/templates/restaurants/restaurant-list.php on line 188
+
+2020-07-16T14:52:38+00:00 CRITICAL syntax error, unexpected ')', expecting ',' or ';' in /var/www/html/gastrolando/wp-content/plugins/wp-foodbakery/templates/restaurants/restaurant-list.php on line 188
+

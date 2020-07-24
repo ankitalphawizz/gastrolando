@@ -1,0 +1,20 @@
+2020-07-09T10:34:39+00:00 CRITICAL Uncaught Error: Call to undefined function foodbakery_socialconnect_scripts() in C:\xampp\htdocs\gastrolando\wp-content\plugins\wp-foodbakery\shortcodes\frontend\shortcode-register.php:27
+Stack trace:
+#0 C:\xampp\htdocs\gastrolando\wp-includes\shortcodes.php(343): Foodbakery_Shortcode_Register_Frontend->foodbakery_register_shortcode_callback(Array, '', 'foodbakery_regi...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\xampp\htdocs\gastrolando\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(foodba...', 'do_shortcode_ta...', '[foodbakery_reg...')
+#3 C:\xampp\htdocs\gastrolando\wp-content\themes\foodbakery\include\frontend\cs-shortcodes\cs-section.php(317): do_shortcode('[foodbakery_reg...')
+#4 C:\xampp\htdocs\gastrolando\wp-includes\shortcodes.php(343): foodbakery_var_section_shortocde(Array, '[foodbakery_reg...', 'section')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 C:\xampp\htdocs\gastrolando\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(foodba...', 'do in C:\xampp\htdocs\gastrolando\wp-content\plugins\wp-foodbakery\shortcodes\frontend\shortcode-register.php on line 27
+
+2020-07-09T13:18:38+00:00 CRITICAL Uncaught Error: Call to undefined function foodbakery_socialconnect_scripts() in C:\xampp\htdocs\gastrolando\wp-content\plugins\wp-foodbakery\shortcodes\frontend\shortcode-register.php:27
+Stack trace:
+#0 C:\xampp\htdocs\gastrolando\wp-includes\shortcodes.php(343): Foodbakery_Shortcode_Register_Frontend->foodbakery_register_shortcode_callback(Array, '', 'foodbakery_regi...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\xampp\htdocs\gastrolando\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(foodba...', 'do_shortcode_ta...', '[foodbakery_reg...')
+#3 C:\xampp\htdocs\gastrolando\wp-content\themes\foodbakery\include\frontend\cs-shortcodes\cs-section.php(317): do_shortcode('[foodbakery_reg...')
+#4 C:\xampp\htdocs\gastrolando\wp-includes\shortcodes.php(343): foodbakery_var_section_shortocde(Array, '[foodbakery_reg...', 'section')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 C:\xampp\htdocs\gastrolando\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(foodba...', 'do in C:\xampp\htdocs\gastrolando\wp-content\plugins\wp-foodbakery\shortcodes\frontend\shortcode-register.php on line 27
+

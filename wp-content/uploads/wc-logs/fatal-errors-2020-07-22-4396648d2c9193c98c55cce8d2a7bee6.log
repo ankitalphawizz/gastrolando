@@ -1,0 +1,42 @@
+2020-07-22T09:33:31+00:00 CRITICAL Uncaught Error: Call to undefined function foodbakery_socialconnect_scripts() in /var/www/html/gastrolando/wp-content/plugins/wp-foodbakery/shortcodes/frontend/shortcode-register.php:27
+Stack trace:
+#0 /var/www/html/gastrolando/wp-includes/shortcodes.php(343): Foodbakery_Shortcode_Register_Frontend->foodbakery_register_shortcode_callback(Array, '', 'foodbakery_regi...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /var/www/html/gastrolando/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(foodba...', 'do_shortcode_ta...', '[foodbakery_reg...')
+#3 /var/www/html/gastrolando/wp-content/themes/foodbakery/include/frontend/cs-shortcodes/cs-section.php(317): do_shortcode('[foodbakery_reg...')
+#4 /var/www/html/gastrolando/wp-includes/shortcodes.php(343): foodbakery_var_section_shortocde(Array, '[foodbakery_reg...', 'section')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/gastrolando/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(foodba...', 'do_shortcode_t in /var/www/html/gastrolando/wp-content/plugins/wp-foodbakery/shortcodes/frontend/shortcode-register.php on line 27
+
+2020-07-22T10:29:22+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /var/www/html/gastrolando/wp-content/themes/foodbakery/functions.php on line 1310
+
+2020-07-22T10:29:23+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /var/www/html/gastrolando/wp-content/themes/foodbakery/functions.php on line 1310
+
+2020-07-22T10:29:23+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /var/www/html/gastrolando/wp-content/themes/foodbakery/functions.php on line 1310
+
+2020-07-22T10:29:23+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /var/www/html/gastrolando/wp-content/themes/foodbakery/functions.php on line 1310
+
+2020-07-22T10:29:23+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /var/www/html/gastrolando/wp-content/themes/foodbakery/functions.php on line 1310
+
+2020-07-22T10:29:23+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /var/www/html/gastrolando/wp-content/themes/foodbakery/functions.php on line 1310
+
+2020-07-22T10:29:23+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /var/www/html/gastrolando/wp-content/themes/foodbakery/functions.php on line 1310
+
+2020-07-22T10:29:23+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /var/www/html/gastrolando/wp-content/themes/foodbakery/functions.php on line 1310
+
+2020-07-22T10:29:23+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /var/www/html/gastrolando/wp-content/themes/foodbakery/functions.php on line 1310
+
+2020-07-22T10:30:07+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /var/www/html/gastrolando/wp-content/themes/foodbakery/functions.php on line 1310
+
+2020-07-22T10:30:13+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /var/www/html/gastrolando/wp-content/themes/foodbakery/functions.php on line 1310
+
+2020-07-22T12:15:01+00:00 CRITICAL Uncaught Error: Call to undefined function foodbakery_socialconnect_scripts() in /var/www/html/gastrolando/wp-content/plugins/wp-foodbakery/shortcodes/frontend/shortcode-register.php:27
+Stack trace:
+#0 /var/www/html/gastrolando/wp-includes/shortcodes.php(343): Foodbakery_Shortcode_Register_Frontend->foodbakery_register_shortcode_callback(Array, '', 'foodbakery_regi...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /var/www/html/gastrolando/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(foodba...', 'do_shortcode_ta...', '[foodbakery_reg...')
+#3 /var/www/html/gastrolando/wp-content/themes/foodbakery/include/frontend/cs-shortcodes/cs-section.php(317): do_shortcode('[foodbakery_reg...')
+#4 /var/www/html/gastrolando/wp-includes/shortcodes.php(343): foodbakery_var_section_shortocde(Array, '[foodbakery_reg...', 'section')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/gastrolando/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(foodba...', 'do_shortcode_t in /var/www/html/gastrolando/wp-content/plugins/wp-foodbakery/shortcodes/frontend/shortcode-register.php on line 27
+
